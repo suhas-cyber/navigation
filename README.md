@@ -1,0 +1,1 @@
+This Python script is a ROS2 (Robot Operating System 2) navigation node for a mobile robot (named ebot_nav) — designed to autonomously move through a sequence of waypoints while avoiding obstacles using LIDAR data.
